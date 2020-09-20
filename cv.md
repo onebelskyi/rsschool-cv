@@ -68,3 +68,9 @@ Fast learner
     </div>
   </div>
   ```  
+  ## Education
+[Lviv Polytechnic National University](https://lpnu.ua/en)    
+BACHELOR OF COMPUTER SCIENCE (4 course)
+
+## English level  
+Pre-Intermediate
